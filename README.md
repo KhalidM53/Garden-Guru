@@ -1,5 +1,5 @@
 Garden Guru
-![](gardenguru)
+![](gardenguru.png)
 
 
 About
